@@ -1,0 +1,83 @@
+body{
+    color: #4f4f4f;
+    background-color: #f9f9f9;
+    font-family: 'Ubuntu';
+}
+
+#keret{
+    width: 1125px;
+    border: 1px solid #e0e0e0;
+    margin: 0 auto;
+    padding: 0px;
+    background-color: white;
+}
+
+#fejlec{
+    width: 1125px;
+    height: 300px;
+    border: 1px solid #e0e0e0;
+    margin: 0 auto;
+    margin: 0px;
+    padding: 0px;
+    background-image: url(./omg.png);
+
+}
+
+#torzs{
+    width: 1125px;
+    padding: 0px;
+    margin: 0px;
+}
+
+#cikk{
+    float: left;
+    width: 720px;
+    padding: 20px;
+    margin: 0px;
+    background-color: white;
+}
+
+#kommentek{
+    width: 300px;
+    height: 1300px;
+    padding: 20px;
+    margin: 0px;
+    float: right;
+    background-color: #efefef;
+    
+}
+
+.komment{
+    background-color: white;
+    padding: 20px;
+}
+
+h1{
+    color: #333333 ;
+    font-size: 32px;
+}
+
+#lablec{
+    clear: both;
+    text-align: center;
+}
+
+h2{
+    color: #f15d22 ;
+    font-size: 24px;
+}
+
+img{
+    max-width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+a{
+    text-decoration: none;
+    color: #f15d22;
+}
+
+a:hover{
+    color: #a0a0a0;
+}
